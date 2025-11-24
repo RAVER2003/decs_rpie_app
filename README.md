@@ -24,3 +24,4 @@ max_conn_queue=128
 
 
 here you can change the number of worker threads and the cache enable or disable.
+Note: I have used ChatGPT to get a better understanding of the project, and also took its help to write the code of this project
